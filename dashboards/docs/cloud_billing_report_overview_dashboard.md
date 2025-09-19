@@ -4,5 +4,5 @@ This dashboard answers the following questions:
 - How many projects and services are being used?
 - How have costs trended over time (daily and monthly)?
 - Which projects incurred the highest costs?
-- Which locations, services, and SKUs are the most expensive?
+- Which locations and services are the most expensive?
 
